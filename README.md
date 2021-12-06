@@ -1,6 +1,6 @@
 ### Olá! eu sou o João Vitor ( Braun )
 ##
-- 🔭 Trabalho principalmente com Front-end, mas tambem com Back-end
+- 🔭 Front-end e Back-end
 - 🌱 Estou aprendendo React, Aperfeiçoando meus conhecimentos em Laravel, vue
 - 📫 Contato: joaovitorbraun6@gmail.com
 ##
