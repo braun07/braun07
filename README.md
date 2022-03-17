@@ -1,7 +1,7 @@
 ### Olá! eu sou o João Vitor ( Braun )
 ##
-- 🔭 Front-end e Back-end
-- 🌱 Estou aprendendo React, Aperfeiçoando meus conhecimentos em Laravel e vue
+- 🔭 Dev FullStack
+- 🌱 Estou aperfeiçoando meus conhecimentos em Laravel e vue
 - 📫 Contato: joaovitorbraun6@gmail.com
 ##
 <div style="display: inline_block" align="">
