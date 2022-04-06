@@ -1,7 +1,7 @@
 ### Olá! eu sou o João Vitor ( Braun )
 ##
 - 🔭 Dev FullStack
-- 🌱 Estou aperfeiçoando meus conhecimentos em Laravel e vue
+- 🌱 Estou aperfeiçoando meus conhecimentos em Laravel, vue e Angular
 - 📫 Contato: joaovitorbraun6@gmail.com
 ##
 <div style="display: inline_block" align="">
@@ -26,7 +26,8 @@
   <img align="center" alt="braun-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img align="center" alt="braun-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="braun-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  
+  <img align="center" alt="braun-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+
 </div>
   
   ##
