@@ -1,7 +1,7 @@
 ### Olá! eu sou o João Vitor ( Braun )
 ##
-- 🔭 Dev FullStack
-- 🌱 Estou aperfeiçoando meus conhecimentos em Laravel, vue e Angular
+- 🔭 Frontend DEV
+- 🌱 Estou aperfeiçoando meus conhecimentos em Vue, JS e Angular
 - 📫 Contato: joaovitorbraun6@gmail.com
 ##
 <div style="display: inline_block" align="">
