@@ -1,7 +1,7 @@
 ### Olá! eu sou o João Vitor ( Braun )
 ##
 - 🔭 Frontend DEV
-- 🌱 Estou aperfeiçoando meus conhecimentos em Vue, JS e Angular
+- 🌱 Estou aperfeiçoando meus conhecimentos em Vue, JS, Angular e Inertia
 - 📫 Contato: joaovitorbraun6@gmail.com
 ##
 <div style="display: flex">
