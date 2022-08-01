@@ -1,7 +1,7 @@
 ### Olá! eu sou o João Vitor ( Braun )
 ##
 - 🔭 Frontend DEV
-- 🌱 Estou aperfeiçoando meus conhecimentos em Vue, JS, Angular e Inertia
+- 🌱 Estou aperfeiçoando meus conhecimentos em Vue, JS, Next e Inertia
 - 📫 Contato: joaovitorbraun6@gmail.com
 ##
 <div style="display: flex">
@@ -16,7 +16,6 @@
   <img align="center" alt="braun-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img align="center" alt="braun-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="braun-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="braun-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="braun-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="braun-NextJs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="braun-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
