@@ -1,6 +1,6 @@
 ### Olá! eu sou o João Vitor ( Braun )
 ##
-- 🔭 Frontend DEV
+- 🔭 FullStack Dev
 - 🌱 Estou aperfeiçoando meus conhecimentos em Vue, JS, Next e Inertia
 - 📫 Contato: joaovitorbraun6@gmail.com
 ##
