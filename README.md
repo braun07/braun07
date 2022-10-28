@@ -1,6 +1,7 @@
 ### Olá! eu sou o João Vitor ( Braun )
 ##
-- 🔭 FullStack Dev
+- 🔭 Procuro oportunidades como FrontEnd Dev
+- 💼 Atualmente atuo como: FullStack Dev
 - 🌱 Estou aperfeiçoando meus conhecimentos em React E Next.Js
 - 📫 Contato: joaovitorbraun6@gmail.com
 ##
