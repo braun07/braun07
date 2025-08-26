@@ -1,5 +1,4 @@
-# 💫 Olá eu Sou o João!
-🔭 Procurando sempre melhorar como desenvolvedor<br>💼 Atualmente atuo como: FrontEnd Dev<br>🌱 Estou aperfeiçoando meus conhecimentos em  Next.Js<br>
+🔭 Looking for ways to improve my development skills<br>💼 Now working as a fronend developer<br>
 
 
 ## 🌐 Socials:
