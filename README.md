@@ -60,3 +60,4 @@
 | Project | Description | Tech |
 |---|---|---|
 | [**Bramble**](https://github.com/braun07/Bramble) | Bramble is a reusable React component library for building consistent web apps. | React, TypeScript |
+| [**Random User**](https://github.com/braun07/vuejs-random-user) | This is a Random User Generator developed by learning process only. | Vue.js, JavaScript |
